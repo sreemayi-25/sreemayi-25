@@ -9,7 +9,6 @@ I'm a passionate Computer Science Engineering student from SRM University AP, cu
 - Artificial Intelligence & Machine Learning
 - Data-Driven Applications & Visualization
 - Open Source Contributions
-- Exploring the intersection of tech and agriculture 🌾
 
 ---
 
@@ -17,7 +16,6 @@ I'm a passionate Computer Science Engineering student from SRM University AP, cu
 - Advanced Django & REST API development
 - ReactJS and frontend performance optimization
 - Deep Learning (CNNs, LSTMs)
-- Deployment & CI/CD workflows using GitHub Actions and Railway
 
 ---
 
@@ -34,12 +32,6 @@ I'm a passionate Computer Science Engineering student from SRM University AP, cu
 - 🔗 LinkedIn: [linkedin.com/in/sreemayi-billa](https://www.linkedin.com/in/sreemayi-billa/)
 - 🌐 Portfolio: [student-portfolio-seven.vercel.app](https://student-portfolio-seven.vercel.app/)
 - 💻 GitHub: [github.com/sreemayi-25](https://github.com/sreemayi-25)
-
----
-
-## 😄 Pronouns: She/Her  
-## ⚡ Fun fact:  
-I'm a sneakerhead who can debug Python errors faster than my favorite playlist drops the beat 🎧👟
 
 ---
 
