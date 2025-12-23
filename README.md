@@ -68,18 +68,6 @@ I’m a motivated and detail-oriented Computer Science student with strong inter
 
 ---
 
-## 📜 Certifications
-- 🏅 **Python – HackerRank (Global Rank 1)**
-- 🥇 **Managerial Skills for Interpersonal Development – NPTEL IIT Madras (Gold Medal)**
-- 🥈 **Python – NPTEL IIT Madras (Silver Medal)**
-- ☁️ AWS Certification – Coursera
-- 🔐 Google Foundations of Cybersecurity – Coursera
-- 📊 Data Science Virtual Experience – BCG
-- 📈 Data Analytics Virtual Experience – Deloitte
-- 🗄 SQL (Basic) – HackerRank
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
