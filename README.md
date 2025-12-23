@@ -1,74 +1,102 @@
-# 👋 Hi there, I'm Sreemayi Billa (@sreemayi-25)
+# 👋 Hi, I’m Sreemayi Billa (@sreemayi-25)
 
-I'm a passionate Computer Science Engineering student from SRM University AP, currently in my 3rd year. I love turning ideas into reality through code and thrive on building practical applications that make a difference.
-
----
-
-## 👀 I’m interested in:
-- Full Stack Development (especially Django + React)
-- Artificial Intelligence & Machine Learning
-- Data-Driven Applications & Visualization
-- Open Source Contributions
+I’m a motivated and detail-oriented Computer Science student with strong interests in **Full-Stack Development**, **Artificial Intelligence & Machine Learning**, and **Data-Driven Systems**. I enjoy building scalable, real-world applications and translating complex problems into clean, efficient solutions.
 
 ---
 
-## 🌱 I’m currently learning:
-- Advanced Django & REST API development
-- ReactJS and frontend performance optimization
-- Deep Learning (CNNs, LSTMs)
+## 👀 Areas of Interest
+- Full Stack Development (React, Django, REST APIs)
+- Machine Learning & Deep Learning (CNNs, LSTMs, BERT)
+- Data Science & Visualization
+- Automation, DevOps & CI/CD
+- Research-oriented problem solving
 
 ---
 
-## 💞️ I’m looking to collaborate on:
-- AI/ML-based applications that solve real-world problems
-- Open-source Django or React projects
-- Research-oriented tech for sustainability and smart farming
-- Projects that blend design, development, and data science
+## 🌱 Currently Learning
+- Advanced Django & scalable REST API design  
+- React performance optimization & frontend architecture  
+- Deep Learning models (CNNs, RNNs, LSTMs)  
+- MLOps & deployment best practices  
 
 ---
 
-## 📫 How to reach me:
-- ✉️ Email: [sreemayi25@gmail.com](mailto:sreemayi25@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/sreemayi-billa](https://www.linkedin.com/in/sreemayi-billa/)
-- 🌐 Portfolio: [student-portfolio-seven.vercel.app](https://student-portfolio-seven.vercel.app/)
-- 💻 GitHub: [github.com/sreemayi-25](https://github.com/sreemayi-25)
+## 🛠 Skills & Tools
 
----
-
-## 🚀 Skills & Tools
-
+### Programming & Web
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+
+### ML / AI / Data
+- Machine Learning, Deep Learning  
+- CNN, LSTM, BERT, RBF Networks  
+- Scikit-Learn, TensorFlow, Keras  
+- NumPy, Pandas, Matplotlib, Seaborn  
+- Model Evaluation (ROC-AUC, Confusion Matrix)
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Projects
 
-Here are some of my favorite works:
+- 🧠 **Food Volume Estimation using Instance Segmentation**  
+  Research project combining instance segmentation with plate-based scale calibration for real-world food volume estimation.
 
-- 📊 [Expense Tracker (Django)](https://github.com/sreemayi-25/Expense-Tracker): A web-based tool to manage and visualize expenses with login support and charting 📈  
-- 🍔 [Food Delivery Web App](https://github.com/sreemayi-25/Food-Delivery-App): An interactive PHP-based food ordering and delivery system  
-- 🚕 [Taxi Booking App](https://github.com/sreemayi-25/Taxi-Booking-System): A taxi service web app with real-time driver assignment and responsive UI  
-- 📈 [Stock Price Predictor](https://github.com/sreemayi-25/Stock-Market-Predictor): Predicting stock trends using ML algorithms (LSTM, RF, SVM, ARIMA)
+- 📈 **CryptoX – Full Stack Crypto Tracker**  
+  React + Express application using CoinGecko API with backend caching to handle rate limits.
+
+- 💸 **Expense Tracker (Django)**  
+  Web app with authentication, budget tracking, and visual analytics.
+
+- 🎵 **Music Genre Classification (CNN)**  
+  Deep learning model using Mel-spectrograms with explainable activation maps.
+
+- 💳 **Credit Card Fraud Detection (RBF Network)**  
+  Interpretable ML model with improved fraud recall and ROC-AUC evaluation.
+
+- 🧠 **YouTube Sentiment Analyzer (BERT)**  
+  NLP system classifying comments into positive, negative, and neutral sentiments.
+
+---
+
+## 📜 Certifications
+- 🏅 **Python – HackerRank (Global Rank 1)**
+- 🥇 **Managerial Skills for Interpersonal Development – NPTEL IIT Madras (Gold Medal)**
+- 🥈 **Python – NPTEL IIT Madras (Silver Medal)**
+- ☁️ AWS Certification – Coursera
+- 🔐 Google Foundations of Cybersecurity – Coursera
+- 📊 Data Science Virtual Experience – BCG
+- 📈 Data Analytics Virtual Experience – Deloitte
+- 🗄 SQL (Basic) – HackerRank
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreemayi-25&show_icons=true&theme=radical" alt="Sreemayi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sreemayi-25&show_icons=true&theme=radical" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=sreemayi-25&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sreemayi-25&theme=radical" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreemayi-25&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreemayi-25&layout=compact&theme=radical" />
 </p>
 
 ---
+
+## 📫 Connect With Me
+- 📧 Email: **sreemayi25@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/sreemayi-billa/
+- 💻 GitHub: https://github.com/sreemayi-25
+
+---
+
+⭐ *Always open to learning, collaboration, and impactful engineering projects.*
